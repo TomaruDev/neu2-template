@@ -1,0 +1,16 @@
+{
+	"appname": "project",
+	"appport": "0",
+	"url": "/",
+	"mode": "window",
+	"window": {
+		"title": "project",
+		"width": "850",
+		"height": "480",
+		"fullscreen": false,
+		"alwaysontop": false,
+		"iconfile": "icon.png",
+		"enableinspector": false,
+		"borderlesswindow": false
+	}
+}
