@@ -9,7 +9,7 @@
 		"release": "node nexe.config.js && webpack && neu2 release"
 	},
 	"author": "neu2.project Developers",
-	"license": "MIT",
+	"license": "neu2.license",
 	"private": false,
 	"devDependencies": {
 		"css-loader": "^5.0.1",
