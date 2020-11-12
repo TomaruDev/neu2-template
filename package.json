@@ -1,14 +1,14 @@
 {
-	"name": "project",
+	"name": "neu2.project",
 	"version": "1.0.0",
-	"description": "project - My New Neutralino Project !",
+	"description": "neu2.project - My New Neutralino Project !",
 	"scripts": {
 		"run": "neu2 run",
 		"build": "node nexe.config.js && webpack",
 		"update": "neu2 build",
 		"release": "node nexe.config.js && webpack && neu2 release"
 	},
-	"author": "project Developers",
+	"author": "neu2.project Developers",
 	"license": "MIT",
 	"private": false,
 	"devDependencies": {
