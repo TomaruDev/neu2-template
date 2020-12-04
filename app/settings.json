@@ -1,10 +1,10 @@
 {
-	"appname": "project",
+	"appname": "neu2.project",
 	"appport": "0",
 	"url": "/",
 	"mode": "window",
 	"window": {
-		"title": "project",
+		"title": "neu2.project",
 		"width": "850",
 		"height": "480",
 		"fullscreen": false,
